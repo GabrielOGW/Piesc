@@ -8,4 +8,4 @@ O problema que encontramos foi: a falta de um sistema web para guardar e gerenci
 A solucao que encontramos para o problema foi: criar um software para acesso web que possa ser feito o cadastro, edição e visualização de um ou mais produtos do estoque de limpeza.
 
 ### Tecnologias que escolhemos para o projeto:
-Em decição com a sala, optamos utilizar o JavaScript para o frontend e backend, e para o banco de dados escolhemos o mysql.
+Em decisão com a sala, optamos utilizar o JavaScript para o frontend e backend, e para o banco de dados escolhemos o mysql.
